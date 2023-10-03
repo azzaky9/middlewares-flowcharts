@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T09:14:16.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.8" etag="sNn_rZD5CQ2olz3UdqPb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T09:29:01.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0lCTsITqHQGqWvoDQ9t1" version="21.6.8" type="github">
   <diagram name="Page-1" id="dXy0XVynJipYpKjjFxLi">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FcL633AZLK_fhRZo0vDX-1" value="TAMU ORDER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-50" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FcL633AZLK_fhRZo0vDX-2" target="FcL633AZLK_fhRZo0vDX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-2" value="TAMU INCHARGE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="40" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FcL633AZLK_fhRZo0vDX-3" target="FcL633AZLK_fhRZo0vDX-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-3" value="TAMU HOTEL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="45" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="FcL633AZLK_fhRZo0vDX-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="-10" as="sourcePoint" />
+            <mxPoint x="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FcL633AZLK_fhRZo0vDX-1" target="FcL633AZLK_fhRZo0vDX-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="50" as="sourcePoint" />
+            <mxPoint x="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FcL633AZLK_fhRZo0vDX-7" target="FcL633AZLK_fhRZo0vDX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-7" value="CUSTOMER ORDER" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FcL633AZLK_fhRZo0vDX-9" target="FcL633AZLK_fhRZo0vDX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-9" value="LIST MENU + HARGA incharge&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="290" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FcL633AZLK_fhRZo0vDX-12" target="FcL633AZLK_fhRZo0vDX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-12" value="invoices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FcL633AZLK_fhRZo0vDX-14" target="FcL633AZLK_fhRZo0vDX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-14" value="add order to kitchen&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="98.75" y="460" width="172.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-16" value="END" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="98.75" y="530" width="172.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FcL633AZLK_fhRZo0vDX-18" target="FcL633AZLK_fhRZo0vDX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-18" value="CUSTOMER ORDER" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FcL633AZLK_fhRZo0vDX-20" target="FcL633AZLK_fhRZo0vDX-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-20" value="INPUT NOMOR KAMAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="170" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-22" value="LIST MENU + HARGA&amp;nbsp; hotel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="310" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-25" value="MINIBAR&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="310" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FcL633AZLK_fhRZo0vDX-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.559;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.316;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FcL633AZLK_fhRZo0vDX-20" target="FcL633AZLK_fhRZo0vDX-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="320" as="sourcePoint" />
+            <mxPoint x="540" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
